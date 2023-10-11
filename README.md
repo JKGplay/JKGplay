@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JKGplay,
-- ✍ I’m currently making the Brenna Lore site,
-- 🌱 I’m currently learning HTML and CSS, Javascript and C++
+- 👋 Hello there
+- ✍ I’m currently making school project - android app
+- 🌱 I’m currently learning Java, QT and React
 - 📫 How to reach me - jkgplay2005@gmail.com
