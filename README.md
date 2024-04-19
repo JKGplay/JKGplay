@@ -1,4 +1,4 @@
 - 👋 Hello there
 - ✍ I’m currently making school project - android app
-- 🌱 I’m currently learning Java, QT and React
+- 🌱 I’m currently learning Java, Go and NextJS
 - 📫 How to reach me - jkgplay2005@gmail.com
