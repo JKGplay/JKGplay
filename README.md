@@ -1,4 +1,4 @@
 - 👋 Hello there
-- ✍ I’m currently making meeting application - meetometer
-- 🌱 I’m currently learning Java, Go and NextJS
-- 📫 How to reach me - jkgplay2005@gmail.com
+- ✍ I’m currently studying...
+- 🌱 I’m currently learning C++, VHDL and electronics
+- 📫 How to reach me - janganc@proton.me
